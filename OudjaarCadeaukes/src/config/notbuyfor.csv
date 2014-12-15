@@ -1,0 +1,17 @@
+#id, #id-notbuyfor
+nathalie, jean, hannah, vic
+jean, nathalie, hannah, vic
+hannah, nathalie, jean, vic
+vic, nathalie, jean, hannah
+koen, elke, daan, tuur
+elke, koen, daan, tuur
+daan, elke, koen, tuur
+tuur, elke, koen, daan
+#pierre, natascha, emily, nina
+#natascha, pierre, emily, nina
+#emily, pierre, natascha, nina
+#nina, pierre, natascha, emily
+fré, lies, lotte, hanne
+lies, fré, lotte, hanne
+lotte, fré, lies, hanne
+hanne, fré, lies, lotte
